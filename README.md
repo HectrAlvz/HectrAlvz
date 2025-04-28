@@ -1,15 +1,29 @@
-## Hi there 👋
+## 👋 About Me
+Hi! I'm Héctor Álvarez, a Software Engineering student at the University of Colima and a passionate Backend Developer.
+I'm currently finishing my internship, gaining hands-on experience with Python, Django REST Framework, PostgreSQL, and Docker.
+I love learning new technologies and improving my backend and problem-solving skills every day.
 
-¡Soy Héctor Álvarez, estudiante de Ingeniería en Software en la Universidad de Colima! Estoy emocionado por aprender y explorar nuevas tecnologías en el campo del desarrollo de software.
+### 🛠️ Skills
+- **Languages:** Python (intermediate level)
 
-- 🌱 **Mis áreas de interés incluyen:** Big Data, Data Mining, Data Science y análisis de datos (usualmente en estadísticas deportivas). También tengo conocimientos en el desarrollo Front-End y el diseño UI/UX utilizando Figma.
+- **Frameworks:** Django, Django REST Framework
 
-- 👯 **Busco colaborar en:** Proyectos relacionados con el desarrollo de software, especialmente aquellos que involucren Back-End.
+- **Databases:** PostgreSQL, MySQL (basic knowledge)
 
-- 🤔 **Estoy buscando ayuda con:** Mejores prácticas en el desarrollo de aplicaciones y optimización de procesos relacionados con datos.
+- **Other Tools:** Docker
 
-- 📫 **Cómo contactarme:** Puedes enviarme un correo a [halvarez7@outlook.com](mailto:halvarez7+info@outlook.com).
+- **Learning Focus:** Docker Compose, advanced PostgreSQL, system design patterns, CI/CD pipelines, machine learning.
 
-- ⚡ **Dato curioso:** Me motiva el análisis de datos y tener la oportunidad de crear prototipos para mejorar la experiencia del usuario mediante un buen diseño UI/UX.
+### 📚 Currently Improving
+- Writing clean and scalable APIs with Django REST Framework
 
-¡Gracias por visitar mi perfil!
+- Deepening my knowledge in SQL and relational database optimization
+
+- Strengthening my algorithmic thinking and problem-solving skills
+
+- Practicing DevOps basics (Docker, GitHub Actions, deployment strategies)
+
+- Improving my English communication skills (currently around B1 level)
+
+### 📫 Contact Me
+- My email: [halvarez7@outlook.com](mailto:halvarez7+info@outlook.com).
